@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F48FB1fontColor=FFFFFF&height=140&text=개발자%20최지형입니다!🤗&fontSize=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1fontColor=FFFFFF&height=140&text=개발자%20최지형입니다!🤗&fontSize=36)
 
 ### 🛠 Tech
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
