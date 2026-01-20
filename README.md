@@ -28,5 +28,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jihyung772@gmail.com)
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyungchoi&layout=compact&langs_count=8&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungEee&layout=compact&langs_count=8&theme=default)
 
