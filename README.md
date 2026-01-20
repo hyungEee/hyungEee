@@ -30,9 +30,6 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### 📫 Contact
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@jihyungchoi)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jihyung772@gmail.com)
 
 ### 📊 Github Stats
 ![Jihyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungEee&show_icons=true&hide_border=true)
