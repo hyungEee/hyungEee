@@ -24,6 +24,7 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@jihyungchoi)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jihyung772@gmail.com)
 
-### 📊 Most Used Languages
+### 📊 Github Stats
+![Jihyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungEee&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungEee&layout=compact&langs_count=8&theme=default)
 
