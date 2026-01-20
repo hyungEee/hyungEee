@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&fontColor=FFFFFF&height=180&text=개발자%20최지형입니다!🤗&fontSize=36&fontAlignY=35)
-### 🎓 Education
+## 🎓 Education
 - Soongsil University - School of Software (2020.03 ~ 2026.02)
 - KB IT's Your Life 6th (2025.03 ~ 2025.08)
 
-### 🛠 Tech
+## 🛠 Tech
 - Backend: 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
-### 🔨 Tools
+## 🔨 Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -30,8 +30,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-
-### 📊 Github Stats
+## 📊 Github Stats
 ![Jihyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungEee&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungEee&layout=compact&langs_count=8&theme=default)
 
