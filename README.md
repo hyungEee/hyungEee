@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&fontColor=FFFFFF&height=140&text=개발자%20최지형입니다!🤗&fontSize=36)
+### 🎓 Education
+- Soongsil University - School of Software (2020.03 ~ 2026.02)
+- KB IT's Your Life 6th (2025.03 ~ 2025.08)
 
 ### 🛠 Tech
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
