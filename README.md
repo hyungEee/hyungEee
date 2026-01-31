@@ -33,4 +33,5 @@
 ## 📊 Github Stats
 ![Jihyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungEee&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungEee&layout=compact&langs_count=8&theme=default)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackstar20)](https://solved.ac/blackstar20/)
 
